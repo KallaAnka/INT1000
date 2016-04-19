@@ -1,0 +1,51 @@
+{
+	"s": [{
+		"spør": "Hvilke muskler trenes av benkpress?",
+		"svar1": "Biceps",
+		"svar2": "Quadriceps",
+		"svar3": "Bryst og triceps",
+		"korrekt": "C"
+	}, {
+		"spør": "Hvis du ønsker å fokusere på brystmusklene, hva slags grep bør du ha?",
+		"svar1": "Smalt grep",
+		"svar2": "Bredt grep",
+		"svar3": "En mellomting",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvis du ønsker å fokusere på triceps, hva slags grep bør du ha?",
+		"svar1": "Smalt grep",
+		"svar2": "Bredt grep",
+		"svar3": "En mellomting",
+		"korrekt": "A"
+	}, {
+		"spør": "Hvem bør trene med betydelig svai i ryggen?",
+		"svar1": "Nybegynnere",
+		"svar2": "Erfarne styrkeløftere",
+		"svar3": "Ingen",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvor er stangen riktig plassert på brystet",
+		"svar1": "<img src=\"../Oblig/bilder/benkpress-feil1.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/benkpress-feil2.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/benkpress-riktig2.png\" />",
+		"korrekt": "C"
+	}, {
+		"spør": "Hva slags svai er uforsvarlig?",
+		"svar1": "<img src=\"../Oblig/bilder/benkpress-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/benkpress-feil3.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/benkpress-riktig3.png\" />",
+		"korrekt": "B"
+	}, {
+		"spør": "Hva slags svai er best å begynne med for nybegynnere?",
+		"svar1": "<img src=\"../Oblig/bilder/benkpress-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/benkpress-feil3.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/benkpress-riktig3.png\" />",
+		"korrekt": "C"
+	}, {
+		"spør": "Hva slags svai er best for efarne?",
+		"svar1": "<img src=\"../Oblig/bilder/benkpress-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/benkpress-feil3.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/benkpress-riktig2.png\" />",
+		"korrekt": "A"
+	}]
+}
