@@ -1,0 +1,51 @@
+{
+	"s": [{
+		"spør": "Hva slags fottøy bør man unngå når man tar markløft?",
+		"svar1": "Joggesko",
+		"svar2": "Flate sko",
+		"svar3": "Barbeint",
+		"korrekt": "A"
+	}, {
+		"spør": "Når skal du fylle magen med luft?",
+		"svar1": "Før løftet",
+		"svar2": "Under løftet",
+		"svar3": "Etter løftet",
+		"korrekt": "A"
+	}, {
+		"spør": "Hvilken øvelse trener flest muskelgrupper samtidig?",
+		"svar1": "Knebøy",
+		"svar2": "Markløft",
+		"svar3": "Benkpress",
+		"korrekt": "B"
+	}, {
+		"spør": "Hva er sumostilen?",
+		"svar1": "Overhåndsgrep",
+		"svar2": "Alternert grep",
+		"svar3": "Bred beinstilling",
+		"korrekt": "C"
+	}, {
+		"spør": "Hvilke kroppsholdninger er riktige?",
+		"svar1": "<img src=\"../Oblig/bilder/markløft-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/markløft-feil1.png\" />",
+		"svar3": "Begge",
+		"korrekt": "A"
+	}, {
+		"spør": "Hvilke kroppsholdninger er riktige?",
+		"svar1": "<img src=\"../Oblig/bilder/markløft-feil2.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/markløft-riktig.png\" />",
+		"svar3": "Begge",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvilke kroppsholdninger er riktige?",
+		"svar1": "<img src=\"../Oblig/bilder/markløft-feil3.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/markløft-riktig.png\" />",
+		"svar3": "Begge",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvilken armstilling er riktig?",
+		"svar1": "<img src=\"../Oblig/bilder/markløft-feil3.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/markløft-riktig.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/markløft-feil4.png\" />",
+		"korrekt": "B"
+	}]
+}

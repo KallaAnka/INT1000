@@ -1,0 +1,51 @@
+{
+	"s": [{
+		"spør": "Hvordan skiller frontbøy seg fra vanlig knebøy?",
+		"svar1": "Vekstangen er plassert på brystet",
+		"svar2": "Vekstangen er plassert på ryggen",
+		"svar3": "Bøye ryggen fremover i løftet",
+		"korrekt": "A"
+	}, {
+		"spør": "Hvilken muskelgruppe trenes best med knebøy?",
+		"svar1": "Bakside lår",
+		"svar2": "Rumpe",
+		"svar3": "Forside lår",
+		"korrekt": "C"
+	}, {
+		"spør": "Når skal du trekke pusten?",
+		"svar1": "Før du løfter stangen av stativet",
+		"svar2": "Rett før løftet",
+		"svar3": "Etter løftet",
+		"korrekt": "B"
+	}, {
+		"spør": "Når skal du puste ut?",
+		"svar1": "På vei ned",
+		"svar2": "På vei opp/etter løftet",
+		"svar3": "Før løftet",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvilket bilde viser frontbøy?",
+		"svar1": "<img src=\"../Oblig/bilder/frontbøy-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/knebøy2-riktig.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/knebøy1-feil.png\" />",
+		"korrekt": "A"
+	}, {
+		"spør": "På hvilke bilder er stangen riktig plassert?",
+		"svar1": "<img src=\"../Oblig/bilder/knebøy1-feil.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/knebøy1-riktig.png\" />",
+		"svar3": "Begge",
+		"korrekt": "B"
+	}, {
+		"spør": "Hvilken kroppsholdning illustrerer et godkjent løft?",
+		"svar1": "<img src=\"../Oblig/bilder/knebøy1-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/knebøy1-feil.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/knebøy2-feil.png\" />",
+		"korrekt": "A"
+	}, {
+		"spør": "Hvilken kroppsholdning er feil?",
+		"svar1": "<img src=\"../Oblig/bilder/knebøy1-riktig.png\" />",
+		"svar2": "<img src=\"../Oblig/bilder/knebøy3-feil.png\" />",
+		"svar3": "<img src=\"../Oblig/bilder/knebøy2-riktig.png\" />",
+		"korrekt": "C"
+	}]
+}
